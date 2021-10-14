@@ -1,0 +1,14 @@
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.csproj.AssemblyReference.cache
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.AssemblyInfoInputs.cache
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.AssemblyInfo.cs
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.csproj.CoreCompileInputs.cache
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\bin\Debug\netcoreapp3.1\FactoryPatternExercise02.exe
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\bin\Debug\netcoreapp3.1\FactoryPatternExercise02.deps.json
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\bin\Debug\netcoreapp3.1\FactoryPatternExercise02.runtimeconfig.json
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\bin\Debug\netcoreapp3.1\FactoryPatternExercise02.runtimeconfig.dev.json
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\bin\Debug\netcoreapp3.1\FactoryPatternExercise02.dll
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\bin\Debug\netcoreapp3.1\FactoryPatternExercise02.pdb
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.dll
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.pdb
+C:\Users\blake\Desktop\repos\FactoryPatternExercise02\FactoryPatternExercise02\obj\Debug\netcoreapp3.1\FactoryPatternExercise02.genruntimeconfig.cache
